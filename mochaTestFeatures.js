@@ -14,7 +14,7 @@ let assert = require('assert')
 
 describe('Mathematical Operations - 2 Operations', function(){
 
-    it.only('Add two numbers', function(){
+    it.skip('Add two numbers', function(){
         let a = 5;
         let b = 10;
 
