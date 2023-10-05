@@ -1,0 +1,11 @@
+{
+  "name": "mocha_js_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloMocha.js",
+  "scripts": {
+    "test": "mocha helloMocha.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
